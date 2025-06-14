@@ -30,5 +30,6 @@
   IntrinsicLib|CryptoPkg/Library/IntrinsicLib/IntrinsicLib.inf
   RngLib|MdePkg/Library/BaseRngLib/BaseRngLib.inf
   HandleParsingLib|ShellPkg/Library/UefiHandleParsingLib/UefiHandleParsingLib.inf
+  SynchronizationLib|MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib.inf
 [Components]
   SmokelessRuntimeEFIPatcher/SmokelessRuntimeEFIPatcher/SmokelessRuntimeEFIPatcher.inf
