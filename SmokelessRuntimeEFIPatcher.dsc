@@ -32,5 +32,6 @@
   HandleParsingLib|ShellPkg/Library/UefiHandleParsingLib/UefiHandleParsingLib.inf
   SynchronizationLib|MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib.inf
   TimerLib|MdePkg/Library/BaseTimerLibNullTemplate/BaseTimerLibNullTemplate.inf
+  StackCheckLib|MdePkg/Library/StackCheckLib/StackCheckLib.in
 [Components]
   SmokelessRuntimeEFIPatcher/SmokelessRuntimeEFIPatcher/SmokelessRuntimeEFIPatcher.inf
